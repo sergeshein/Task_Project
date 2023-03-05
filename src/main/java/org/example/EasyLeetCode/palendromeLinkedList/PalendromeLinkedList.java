@@ -1,4 +1,4 @@
-package org.example.EasyLeetCode;
+package org.example.EasyLeetCode.palendromeLinkedList;
 
 public class PalendromeLinkedList {
     /**
@@ -62,4 +62,4 @@ public class PalendromeLinkedList {
             return slow.next;
         }
     }
-}
+
